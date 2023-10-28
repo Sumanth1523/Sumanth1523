@@ -77,13 +77,24 @@
 
 <h4><b>Checkout My Coding Profile, Here🤝</b></h4> 
   
-[**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/sumanthkss286/practice) <br>
-[**LeetCode**](https://leetcode.com/sumanthkss286/) <br>
-[**CodingNinjas**](https://www.codingninjas.com/studio/profile/Sumanth1523)<br>
+- [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/sumanthkss286/practice) <br>
+- [**LeetCode**](https://leetcode.com/sumanthkss286/) <br>
+- [**CodingNinjas**](https://www.codingninjas.com/studio/profile/Sumanth1523)<br>
 <h4><b>Checkout My Technical Blogs, Here🤝</b></h4>  
 
-[**HashNode**](https://buildskillswithsumanth.hashnode.dev/)<br>
-[**BlogSpot**](https://buildskillswithsumanth.blogspot.com/)<br>
+- [**HashNode**](https://buildskillswithsumanth.hashnode.dev/)<br>
+- [**BlogSpot**](https://buildskillswithsumanth.blogspot.com/)<br>
+
+## Certified Skills
+
+- [**TalentNext Course on Java**](https://drive.google.com/file/d/1GCdMMxwubkqEEXfldL5EdbQplA-E7OPQ/view?usp=sharing) by Wipro<br>
+- [**C Programming course**](https://drive.google.com/file/d/1-RVyZA2DE1SO7Su8vW5WcBuj_Ud3-Xhj/view?usp=drive_link) by NPTEL<br>
+- [**C++ bootcamp**](https://drive.google.com/file/d/1rFKcohHx9r_R2bm333tM-h-Ku-UybZEG/view?usp=drive_link) by Let’s upgrade<br>
+- [**Coding Essentials for Logic Building**](https://moonshot.scaler.com/s/sl/Zozo4Egkr2)  by Scalar E-Learning Academy<br>
+- [**Java- Mastering the Fundamentals**](https://moonshot.scaler.com/s/sl/UxrbUoqVvI) by Scalar E-Learning Academy<br>
+- [**Maths for Programming**](https://moonshot.scaler.com/s/sl/r42cMuQwE_) by Scaler E-Learning Academy<br>
+- [**Mastering Linked Lists**](https://drive.google.com/file/d/16ZF6OTW3pgos4kzTx6eEaDlWEpZgvNvh/view)for Complex Data Structures by Bosscoder Academy<br>
+- [**Essentials of Machine Learning**](https://hyperstack.id/credential/1e09ba30-8fbd-43a7-8fb5-420b2dcd29a0?view=recipient) by IIT-Roorkee<br>
 
 
 
