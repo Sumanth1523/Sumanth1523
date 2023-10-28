@@ -3,7 +3,11 @@
 <h2 align="center"><b>I'm a recent graduate and aspiring software engineer. Here's a little bit about me</b></h2>
 <h4 align="center"><b>Software Engineer 👨‍💻 ||Technical Documenter 📖 || Problem Solving Enthusiast 🧠 || 50 DaysOfCode Streak 🔥 on @LeetCode || 50 DaysOfCode Streak 🔥 on @GeeksForGeeks || 50 DaysOfCode Streak 🔥 on @CodingNinjas || Institute 2nd🥇 Rank GFG </b>
 </b></h4> 
-
+  
+## Contributions
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sumanth1523&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
 ## 🙋‍♂️ About Me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
