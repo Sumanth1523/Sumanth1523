@@ -6,6 +6,7 @@
 
 
 ## 🙋‍♂️ About Me
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast
 - 🎓 Graduated with a B.E. in Computer Science and Engineering from Muthayammal Engineering College
