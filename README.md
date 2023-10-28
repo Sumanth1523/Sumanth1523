@@ -94,6 +94,7 @@
 - [**Java- Mastering the Fundamentals**](https://moonshot.scaler.com/s/sl/UxrbUoqVvI) by Scalar E-Learning Academy<br>
 - [**Maths for Programming**](https://moonshot.scaler.com/s/sl/r42cMuQwE_) by Scaler E-Learning Academy<br>
 - [**Mastering Linked Lists**](https://drive.google.com/file/d/16ZF6OTW3pgos4kzTx6eEaDlWEpZgvNvh/view)for Complex Data Structures by Bosscoder Academy<br>
+- [**Git & GitHub**](https://udemy-certificate.s3.amazonaws.com/image/UC-7815bdf2-bbb1-4250-946c-d11ad1df11e3.jpg) by Udemy
 - [**Essentials of Machine Learning**](https://hyperstack.id/credential/1e09ba30-8fbd-43a7-8fb5-420b2dcd29a0?view=recipient) by IIT-Roorkee<br>
 
 
