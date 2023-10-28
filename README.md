@@ -49,7 +49,7 @@
     - Overall Coding Score : 5000 Exp+ <br>
     - MileStone : **Ronin** badge
 
-<h2 align="left">💼 My Tech Stack:</h2>
+<h2 align="left">💼 My Tech Stack</h2>
 
 <p align="left">  
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -71,7 +71,19 @@
  <a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"> </a>
 <a>   <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/OB/UP/SC/136014976/advance-microsoft-excel-course.png" alt="Microsoft Word" width="40" height="40"> </a>
  <a>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png" alt="Microsoft Excel" width="40" height="40"> </a>
-</p>
+
+<h2 align="left">💼 My Tech Corner</h2>
+
+<h4><b>Checkout My Coding Profile, Here🤝</b></h4> 
+  
+[**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/sumanthkss286/practice) <br>
+[**LeetCode**](https://leetcode.com/sumanthkss286/) <br>
+[**CodingNinjas**](https://www.codingninjas.com/studio/profile/Sumanth1523)<br>
+<h4><b>Checkout My Technical Blogs, Here🤝</b></h4>  
+
+[**HashNode**](https://buildskillswithsumanth.hashnode.dev/)<br>
+[**BlogSpot**](https://buildskillswithsumanth.blogspot.com/)<br>
+
 
 
 
