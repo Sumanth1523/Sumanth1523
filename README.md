@@ -6,8 +6,10 @@
   
 ## Contributions
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sumanth1523&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+ <a href="https://https://github.com/Sumanth1523/github-readme-streak-stats">
+   <img src="https://streak-stats.demolab.com?user=Sumanth1523&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
+
 
 ## 🙋‍♂️ About Me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
@@ -88,6 +90,12 @@
 
 - [**HashNode**](https://buildskillswithsumanth.hashnode.dev/)<br>
 - [**BlogSpot**](https://buildskillswithsumanth.blogspot.com/)<br>
+
+<p align="center">
+    <a href="https://https://github.com/Sumanth1523/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumanth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth1523&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## Certified Skills
 
