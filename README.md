@@ -92,11 +92,7 @@
 - [**HashNode**](https://buildskillswithsumanth.hashnode.dev/)<br>
 - [**BlogSpot**](https://buildskillswithsumanth.blogspot.com/)<br>
 
-<p align="center">
-    <a href="https://https://github.com/Sumanth1523/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumanth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth1523&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ## Certified Skills
 
