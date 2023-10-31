@@ -56,6 +56,7 @@
     - 100+ Problems Solved <br>
     - Overall Coding Score : 5000 Exp+ <br>
     - MileStone : **Ronin** badge
+    -  MileStone : **Ronin** badge in Array
 
 <h2 align="left">💼 My Tech Stack</h2>
 
