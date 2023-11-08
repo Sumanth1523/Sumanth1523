@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm <b>Sumanth</b></h1>
 <h2 align="center"><b>I'm a recent graduate and aspiring software engineer. Here's a little bit about me</b></h2>
-<h4 align="center"><b>Software Engineer 👨‍💻 ||Technical Documenter 📖 || Problem Solving Enthusiast 🧠 || 50 DaysOfCode Streak 🔥 on @LeetCode || 50 DaysOfCode Streak 🔥 on @GeeksForGeeks || 50 DaysOfCode Streak 🔥 on @CodingNinjas || Institute 2nd🥇 Rank GFG </b>
+<h4 align="center"><b>Software Engineer 👨‍💻 ||Technical Documenter 📖 || Problem Solving Enthusiast 🧠 || 50 DaysOfCode Streak 🔥 on @LeetCode || 50 DaysOfCode Streak 🔥 on @GeeksForGeeks ||  <a href="https://files.codingninjas.com/streak-badge-50-days-cns-logo-27750.png">50 DaysOfCode Streak 🔥 on @CodingNinjas </a>|| Institute 2nd🥇 Rank GFG </b>
 </b></h4> 
   
 ## Contributions
@@ -55,8 +55,9 @@
 ✅  **CodingNinjas** <br>
     - 100+ Problems Solved <br>
     - Overall Coding Score : 5000 Exp+ <br>
-    - MileStone : **Ronin** badge
-    -  MileStone : **Ronin** badge in Array
+    - MileStone : [**Ronin**](https://media.licdn.com/dms/image/sync/D5627AQFczXOQwj3UFg/articleshare-shrink_1280_800/0/1699464136594?e=1700071200&v=beta&t=MUzbx7oO8rz4NDGVXaxH4Xl0LKTTWsDN1F84cakRAlE) badge in Recursion <br>
+    - MileStone : **Ronin** badge in Array<br>
+    - 
 
 <h2 align="left">💼 My Tech Stack</h2>
 
