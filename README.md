@@ -57,7 +57,7 @@
     - Overall Coding Score : 5000 Exp+ <br>
     - MileStone : [**Ronin**](https://media.licdn.com/dms/image/sync/D5627AQFczXOQwj3UFg/articleshare-shrink_1280_800/0/1699464136594?e=1700071200&v=beta&t=MUzbx7oO8rz4NDGVXaxH4Xl0LKTTWsDN1F84cakRAlE) badge in Recursion <br>
     - MileStone : **Ronin** badge in Array<br>
-    - 
+    - [**Ronin**](https://certificate.codingninjas.com/certificate/7e2024875c1b50de/BadgesRoninCertificate) badge in LinkedList
 
 <h2 align="left">💼 My Tech Stack</h2>
 
